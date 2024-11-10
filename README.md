@@ -1,10 +1,10 @@
 <p align="center">  
   <a href="">
-    <img alt="*Daniel432-gift" height="300" src="https:/files.catbox.moe/y4meeu.jpg">
+    <img alt="*Daniel432-gift" height="300" src="https://files.catbox.moe/y4meeu.jpg">
     <h1 align="center">𝑺𝑨𝑴𝑺𝑼𝑵𝑮_𝑴𝑫</h1>
   </a>
 </p>
-<a><img src='https:/files.catbox.moe/y4meeu.jpg'/></a><a><img src='https://files.catbox.moe/y4meeu.jpg'/></a>
+<a><img src='https://files.catbox.moe/y4meeu.jpg'/></a><a><img src='https://files.catbox.moe/y4meeu.jpg'/></a>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ 𝑺𝑨𝑴𝑺𝑼𝑵𝑮_+𝑴𝑫★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DANNY;RELEASED+DATE+09%2F11%2F2024." alt="Typing SVG" /></a>
