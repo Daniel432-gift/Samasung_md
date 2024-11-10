@@ -12,7 +12,7 @@
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r">
- <img alt="𝑺𝑨𝑴𝑺𝑼𝑵𝑮_𝑴𝑫" height="300" src="https://imgur.com/a/5Zobdkd.jpeg">
+ <img alt="𝑺𝑨𝑴𝑺𝑼𝑵𝑮_𝑴𝑫" height="200" src="https://files.catbox.moe/y4meeu.jpg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
