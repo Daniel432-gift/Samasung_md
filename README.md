@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="">
-    <img alt="*Daniel432-gift" height="100" src="https://files.catbox.moe/y4meeu.jpg">
+    <img alt="*Daniel432-gift" height="200" src="https://files.catbox.moe/y4meeu.jpg">
     <h1 align="center">𝑺𝑨𝑴𝑺𝑼𝑵𝑮_𝑴𝑫</h1>
   </a>
 </p>
