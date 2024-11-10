@@ -121,7 +121,7 @@ WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
 
 
 ## `Main Dev` 
-<a href="https://github.com/Daniel432-gift"><img src="https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg" width="250" height="250" alt="𝒅𝒂𝒏𝒏𝒚"/></a>
+<a href="https://github.com/Daniel432-gift"><img src="https://files.catbox.moe/y4meeu.jpg" width="250" height="250" alt="𝒅𝒂𝒏𝒏𝒚"/></a>
   
 `*𝒔𝒂𝒎𝒔𝒖𝒏𝒈_𝒎𝒅 𝒄𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝒅𝒂𝒏𝒏𝒚`
 
