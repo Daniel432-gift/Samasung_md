@@ -46,7 +46,7 @@ This project  uses Mega.nz's services exclusively for generating session IDs. Th
 
 2. Get Session ID / CREDS.JSON 
     <br>
-<a href='https://samsung-5ggy.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://samsung-ls3s.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 `SESSION FOR DEPLOYMENT IN HEROKU`
 
